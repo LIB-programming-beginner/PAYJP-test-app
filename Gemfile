@@ -62,7 +62,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'payjp'
 gem 'haml-rails'
-gem 'rake', '< 11.0'
+gem 'rake', '< 13.0'
 gem 'devise'
 gem 'erb2haml'
 gem 'jquery-rails'
